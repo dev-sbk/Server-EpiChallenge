@@ -1,0 +1,16 @@
+body {
+	background-color: #1e282c;
+	padding-top: 10%;
+}
+
+.input-group-addon {
+	background-color: rgb(50, 118, 177);
+	border-color: rgb(40, 94, 142);
+	color: rgb(255, 255, 255);
+}
+
+
+
+.form-signup input[type="text"], .form-signup input[type="password"] {
+	border: 1px solid rgb(50, 118, 177);
+}
